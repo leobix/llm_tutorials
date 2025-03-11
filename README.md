@@ -1,14 +1,11 @@
-# llm_tutorials
+# LLM Tutorial
 Informs 2024 Tutorials about Large Language Models for Analytics Practitioners.
-
-Tutorial Langchain:
-https://colab.research.google.com/drive/11ItyYKJlg1s6AvQhHtL-UBCSDwGo8ju-?usp=sharing
 
 # LangChain for LLM Pipelines
 
-![LangChain Pipeline Overview]
-
 A comprehensive tutorial and implementation guide for building powerful pipelines with Large Language Models (LLMs) using the LangChain framework.
+Tutorial Langchain:
+https://colab.research.google.com/drive/11ItyYKJlg1s6AvQhHtL-UBCSDwGo8ju-?usp=sharing
 
 ## 📚 Overview
 
