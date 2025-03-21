@@ -1,7 +1,6 @@
-# LLM Tutorial
-Informs 2024 Tutorials about Large Language Models for Analytics Practitioners.
-
 # LangChain for LLM Pipelines
+
+For Informs 2024 Tutorials about Large Language Models for Analytics Practitioners.
 
 A comprehensive tutorial and implementation guide for building powerful pipelines with Large Language Models (LLMs) using the LangChain framework.
 Tutorial Langchain:
